@@ -2,12 +2,12 @@ const skills = [
   { 
     category: "IAM & PAM Tools", 
     icon: "🔐",
-    items: ["BeyondTrust Password Safe", "CyberArk EPM", "EntraID (Azure AD)", "Active Directory", "Okta"] 
+    items: ["BeyondTrust", "CyberArk", "EntraID (Azure AD)", "Active Directory", "SSO"] 
   },
   { 
     category: "Cloud & Infrastructure", 
     icon: "☁️",
-    items: ["AWS IAM", "Azure Security", "AWS Organizations", "Azure RBAC", "Terraform"] 
+    items: ["AWS IAM", "Azure Security", "AWS Organizations", "Azure RBAC"] 
   },
   { 
     category: "Scripting & Automation", 

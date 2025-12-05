@@ -40,19 +40,12 @@ export default function Hero() {
           <span className="text-cyan-400"> Cloud Security Architecture</span>
         </p>
         
-        {/* Location & Status */}
-        <div className="flex items-center justify-center gap-6 mb-12 text-gray-400">
-          <div className="flex items-center gap-2">
-            <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-              <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd"/>
-            </svg>
-            <span>Pune, India</span>
-          </div>
-          <span className="text-gray-600">•</span>
-          <div className="flex items-center gap-2">
-            <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
-            <span>Available for Consulting</span>
-          </div>
+        {/* Location */}
+        <div className="flex items-center justify-center gap-2 mb-12 text-gray-400">
+          <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+            <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd"/>
+          </svg>
+          <span>Pune, India</span>
         </div>
         
         <div className="flex gap-4 justify-center flex-wrap">
