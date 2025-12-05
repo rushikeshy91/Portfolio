@@ -109,8 +109,8 @@ export default function Contact() {
               <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"/>
             </svg>
             <div className="text-gray-400 text-sm mb-1">Email</div>
-            <a href="mailto:rushikesh.yeldari@example.com" className="text-blue-400 hover:text-blue-300 transition-colors">
-              rushikesh.yeldari@example.com
+            <a href="mailto:rushikeshy91@gmail.com" className="text-blue-400 hover:text-blue-300 transition-colors">
+              rushikeshy91@gmail.com
             </a>
           </div>
           
