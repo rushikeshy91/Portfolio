@@ -44,9 +44,9 @@ export default function About() {
             <div className="border-l-4 border-blue-500 pl-4">
               <h3 className="text-xl font-semibold text-blue-400 mb-2">The Journey</h3>
               <p className="text-gray-300 leading-relaxed">
-                Started my career as an <span className="text-white font-semibold">Infrastructure Engineer</span> for 
+                Started my career as an <span className="text-white font-semibold">Infrastructure Engineer</span> and spent 
                 <span className="text-cyan-400"> 7 years</span>, building and managing enterprise cloud environments 
-                on AWS and Azure. Recognized the critical importance of identity security in modern infrastructure.
+                on VMware, AWS and Azure. Recognized the critical importance of identity security in modern infrastructure.
               </p>
             </div>
             
@@ -71,11 +71,11 @@ export default function About() {
             
             {/* Social Links */}
             <div className="flex gap-4 pt-4">
-              <a href="https://linkedin.com/in/rushikesh-yeldari" target="_blank" rel="noopener noreferrer" 
+              <a href="https://linkedin.com/in/rushikesh-yeldari-6131b0150" target="_blank" rel="noopener noreferrer" 
                  className="px-6 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors font-semibold">
                 LinkedIn
               </a>
-              <a href="https://github.com/ryeldari" target="_blank" rel="noopener noreferrer"
+              <a href="https://github.com/rushikeshy91" target="_blank" rel="noopener noreferrer"
                  className="px-6 py-2 bg-gray-800 hover:bg-gray-700 text-white rounded-lg transition-colors font-semibold">
                 GitHub
               </a>

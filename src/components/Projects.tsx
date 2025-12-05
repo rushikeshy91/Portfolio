@@ -7,9 +7,9 @@ const projects = [
     status: "Production",
   },
   {
-    title: "CyberArk Privileged Access Migration",
-    description: "Led migration from legacy PAM to CyberArk EPM, implementing least-privilege access controls and session monitoring for critical infrastructure",
-    tags: ["CyberArk", "Migration", "Compliance"],
+    title: "BeyondTrust Privileged Access Migration",
+    description: "Led migration from legacy PAM to BeyondTrust SaaS PASM solution, implementing least-privilege access controls and session monitoring for critical infrastructure",
+    tags: ["BeyondTrust", "Migration", "Compliance"],
     metrics: { accounts: "5K+", compliance: "SOC 2", uptime: "99.9%" },
     status: "Completed",
   },
@@ -38,7 +38,7 @@ const projects = [
     title: "Privileged Session Monitoring",
     description: "Implemented comprehensive session recording and monitoring solution using BeyondTrust for audit compliance and threat detection",
     tags: ["Session Management", "Audit", "Compliance"],
-    metrics: { sessions: "10K+/mo", retention: "7 years", incidents: "0" },
+    metrics: { sessions: "10K+/mo", retention: "2 years", incidents: "0" },
     status: "Production",
   },
 ];
